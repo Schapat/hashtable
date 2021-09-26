@@ -1,0 +1,16 @@
+C:\Users\patri\source\repos\hashtable\hashtable\bin\Debug\net5.0\hashtable.exe
+C:\Users\patri\source\repos\hashtable\hashtable\bin\Debug\net5.0\hashtable.deps.json
+C:\Users\patri\source\repos\hashtable\hashtable\bin\Debug\net5.0\hashtable.runtimeconfig.json
+C:\Users\patri\source\repos\hashtable\hashtable\bin\Debug\net5.0\hashtable.runtimeconfig.dev.json
+C:\Users\patri\source\repos\hashtable\hashtable\bin\Debug\net5.0\hashtable.dll
+C:\Users\patri\source\repos\hashtable\hashtable\bin\Debug\net5.0\ref\hashtable.dll
+C:\Users\patri\source\repos\hashtable\hashtable\bin\Debug\net5.0\hashtable.pdb
+C:\Users\patri\source\repos\hashtable\hashtable\obj\Debug\net5.0\hashtable.csproj.AssemblyReference.cache
+C:\Users\patri\source\repos\hashtable\hashtable\obj\Debug\net5.0\hashtable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\source\repos\hashtable\hashtable\obj\Debug\net5.0\hashtable.AssemblyInfoInputs.cache
+C:\Users\patri\source\repos\hashtable\hashtable\obj\Debug\net5.0\hashtable.AssemblyInfo.cs
+C:\Users\patri\source\repos\hashtable\hashtable\obj\Debug\net5.0\hashtable.csproj.CoreCompileInputs.cache
+C:\Users\patri\source\repos\hashtable\hashtable\obj\Debug\net5.0\hashtable.dll
+C:\Users\patri\source\repos\hashtable\hashtable\obj\Debug\net5.0\ref\hashtable.dll
+C:\Users\patri\source\repos\hashtable\hashtable\obj\Debug\net5.0\hashtable.pdb
+C:\Users\patri\source\repos\hashtable\hashtable\obj\Debug\net5.0\hashtable.genruntimeconfig.cache
