@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hashtable", "hashtable\hashtable.csproj", "{C9EB3E0C-BA11-4F97-99EE-28945862F4E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hashtable", "hashtable\hashtable.csproj", "{C9EB3E0C-BA11-4F97-99EE-28945862F4E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstRecurringCharacter", "FirstRecurringCharacter\FirstRecurringCharacter.csproj", "{802001E5-8AAE-407E-8396-E3A9A594ADC5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C9EB3E0C-BA11-4F97-99EE-28945862F4E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9EB3E0C-BA11-4F97-99EE-28945862F4E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9EB3E0C-BA11-4F97-99EE-28945862F4E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{802001E5-8AAE-407E-8396-E3A9A594ADC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{802001E5-8AAE-407E-8396-E3A9A594ADC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{802001E5-8AAE-407E-8396-E3A9A594ADC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{802001E5-8AAE-407E-8396-E3A9A594ADC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+C:\Users\patri\source\repos\hashtable\FirstRecurringCharacter\bin\Debug\net5.0\FirstRecurringCharacter.exe
+C:\Users\patri\source\repos\hashtable\FirstRecurringCharacter\bin\Debug\net5.0\FirstRecurringCharacter.deps.json
+C:\Users\patri\source\repos\hashtable\FirstRecurringCharacter\bin\Debug\net5.0\FirstRecurringCharacter.runtimeconfig.json
+C:\Users\patri\source\repos\hashtable\FirstRecurringCharacter\bin\Debug\net5.0\FirstRecurringCharacter.runtimeconfig.dev.json
+C:\Users\patri\source\repos\hashtable\FirstRecurringCharacter\bin\Debug\net5.0\FirstRecurringCharacter.dll
+C:\Users\patri\source\repos\hashtable\FirstRecurringCharacter\bin\Debug\net5.0\ref\FirstRecurringCharacter.dll
+C:\Users\patri\source\repos\hashtable\FirstRecurringCharacter\bin\Debug\net5.0\FirstRecurringCharacter.pdb
+C:\Users\patri\source\repos\hashtable\FirstRecurringCharacter\obj\Debug\net5.0\FirstRecurringCharacter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\source\repos\hashtable\FirstRecurringCharacter\obj\Debug\net5.0\FirstRecurringCharacter.AssemblyInfoInputs.cache
+C:\Users\patri\source\repos\hashtable\FirstRecurringCharacter\obj\Debug\net5.0\FirstRecurringCharacter.AssemblyInfo.cs
+C:\Users\patri\source\repos\hashtable\FirstRecurringCharacter\obj\Debug\net5.0\FirstRecurringCharacter.csproj.CoreCompileInputs.cache
+C:\Users\patri\source\repos\hashtable\FirstRecurringCharacter\obj\Debug\net5.0\FirstRecurringCharacter.dll
+C:\Users\patri\source\repos\hashtable\FirstRecurringCharacter\obj\Debug\net5.0\ref\FirstRecurringCharacter.dll
+C:\Users\patri\source\repos\hashtable\FirstRecurringCharacter\obj\Debug\net5.0\FirstRecurringCharacter.pdb
+C:\Users\patri\source\repos\hashtable\FirstRecurringCharacter\obj\Debug\net5.0\FirstRecurringCharacter.genruntimeconfig.cache
